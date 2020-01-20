@@ -25,3 +25,6 @@ We will also learn the HTTP POST request method to submit data to our server
 
 * Create an HTML file with a form that will post data.
 * Create a server that will accept the POSTed data and log it to the console.
+* Each route should be triggered by a different URL.
+* Each route should display an HTML page listing your favorite three things of each.
+* Be sure to use `fs` to serve your HTML files.
