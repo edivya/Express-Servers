@@ -20,3 +20,8 @@ We will also learn the HTTP POST request method to submit data to our server
 - Postman
 - HTTP POST requests
 - Express.static()
+
+# **Instructions**
+
+* Create an HTML file with a form that will post data.
+* Create a server that will accept the POSTed data and log it to the console.
