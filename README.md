@@ -11,3 +11,12 @@ We will also learn the HTTP POST request method to submit data to our server
 - Using this app that has two web servers: one that listens on port 7000 and one that listens on port 7500.
 
 - Each server will respond with a different inspirational quote of your choosing.
+
+## Tools
+
+- http
+- Express.js
+- Routing
+- Postman
+- HTTP POST requests
+- Express.static()
